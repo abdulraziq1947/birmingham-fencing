@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fencingcompanybirmingham.co.uk/sitemap.xml
